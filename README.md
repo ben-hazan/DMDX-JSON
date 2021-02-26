@@ -3,6 +3,7 @@ Convert DMDX AZK output to JSON
 
 ## Dependencies
 * Python 3.9
+* DMDX 6.1.5.2
 * Record Clock On Time \<rcot\>
 * Output AZK \<azk\>
 
