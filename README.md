@@ -1,6 +1,5 @@
 # DMDX-JSON
 
-Convert DMDX AZK output to JSON
 This project was created to simplify the processing and analysis of DMDX experiment data. DMDX is widely used in psychological and linguistic research, but its AZK output format can be difficult to work with in modern data analysis tools. By converting AZK files to JSON, researchers can easily import their experimental data into spreadsheet applications, statistical packages, and data visualization tools without manual reformatting.
 
 ## Dependencies
